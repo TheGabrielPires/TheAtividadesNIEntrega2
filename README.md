@@ -2,18 +2,17 @@
 Entrega 2 ADS3 2025
 
 
-Arquivos:
+# Arquivos:
 
-QUESTÃO 01:
+**QUESTÃO 01:**
 
-QUESTÃO 02:
+**QUESTÃO 02:**
 
-QUESTÃO 03: Atividade3.apk 
+**QUESTÃO 03:** Atividade3.apk
 
-QUESTÃO 04:
+**QUESTÃO 04:**
 
-QUESTÃO 06:
+**QUESTÃO 06:**
 
-
-Enunciuados Disponíveis no arquivo:
+Enunciados Disponíveis no arquivo:
 PM - Atividade 02 - Ver1
